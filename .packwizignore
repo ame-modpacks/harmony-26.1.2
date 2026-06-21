@@ -1,0 +1,8 @@
+.github/**
+/*.zip
+*.mrpack
+README*
+.nojekyll
+.editorconfig
+
+local/**
