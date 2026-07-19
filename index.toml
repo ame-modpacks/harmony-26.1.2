@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "98160b81327752e1ae3c2b05df6c001ec1ff7641adf962b694e73c4edb9d5e3e"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "84964d9b2cd01717124dc627e008cdca778f7970509f04127945f9a5191fb463"
 metafile = true
@@ -31,6 +36,11 @@ hash = "9e0432dc69c6a4129a169bcb2ac1cd7b49c4b55a91578d127da205d220a626bd"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "996ec8b8484c0709cc66e7eaa7a22535375fab7aed76e2ec4db34b5323aa382f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d738fe51b20c8da621e36a0d65e15d7f4f9f8e2e8162670a2798610079790ee3"
 metafile = true
@@ -51,6 +61,11 @@ hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "7a5ba6a70f66a76b36b6227bf88e81c9d0453f0fd4398b94b425979820631c5a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
@@ -63,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "b21938bfc71d238fdf80f01542a3bf4caceb1eaf11972165b5df2d4fc05ab5ef"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
 
 [[files]]
@@ -81,8 +101,13 @@ hash = "0fd256b27b9baaa240af790376b852efbced1d357ea8b4bc324aa835d6dcbc58"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "c82b296698cda0aa6bc747592b72d3686ccc3dadc9e817c2dc86772efe567b71"
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "48b7006d6efb70e924d404d2c598b66f178ba04d04350172915bb7a41ecca9b1"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "fa2fa13862386e218469a08f1135e7de12f4e575e2213e7951c90c53641959da"
 metafile = true
 
 [[files]]
@@ -136,6 +161,11 @@ hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "b2c7e56b75bfe5122d0c451eabf3b692b54f284094ca01d3daa9c5d83236dd8c"
+metafile = true
+
+[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "592dd4f9cbed1762711ec05e5bb3b7b20f3d16a6df4ef20aba8461bef28f7232"
 metafile = true
@@ -178,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2c7f4e5909fe14046115f1ec3427865580f4e10eb1b433b3ce9e805ac95aeff9"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "97f04266f693bea79ba4d25e040119a126f7790abb606c9a46d5b0416dcf693f"
 metafile = true
 
 [[files]]
@@ -231,8 +266,18 @@ hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "101da57f5931601efbd1a532fc0bc2becc8cc0d8450421c354cc062ea3bd20a3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8445070cb77093b7e6537e687c2774bcca50bc32f753d47fc04f8d5f2534b432"
 metafile = true
 
 [[files]]
@@ -248,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "058d15d95d7d43065609bc787422197246a6566a85ff92e622fcedb231b715ef"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "13874f7bb007d1c767a0464e62c3edc6f3c943f5da570a963fe63bf5433e2cdd"
 metafile = true
 
 [[files]]
@@ -283,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "7c31a908b2309d573163326b564a797d28fb7c0c15e18c29d61c930b3adafb27"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "27e83db4ce5d610b8e79dfc7914922e3ba3fa6737d476425ee7c62562a4fad3d"
 metafile = true
 
 [[files]]
