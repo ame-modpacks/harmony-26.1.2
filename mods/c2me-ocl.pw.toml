@@ -11,3 +11,8 @@ hash = "e79b576523efe8f48aac6cb33e04bb5bdd1fc0a74f63fc23244e794f9a95e0016e543b0c
 [update.modrinth]
 mod-id = "qtPMklut"
 version = "nbDoBmhu"
+
+[option]
+optional = true
+default = true
+description = "GPU-accelerated chunk generation. Requires OpenCL"

@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "84964d9b2cd01717124dc627e008cdca778f7970509f04127945f9a5191fb463"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "319e33f0c095431cac722aec0c44649e7aeed9aa47e87426dc02b78ba1821585"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "050122c8be6ea18cf73010098a7eab81c84bd21549a0c15f5633ab73e6050547"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "4bf6c35d8ed1052b126f85118edefbb416a649a18d992c9138338c5fe9b9592c"
 metafile = true
 
 [[files]]
@@ -17,7 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
-hash = "c9c0c41a017bdd86326e0b200d9fd247215be9728490d8a4beaba660c3894453"
+hash = "0b6886eca37caa2d65b45dcfad53a09b7b420b0109b68f310d24f44a66a0ccb3"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "183afb9d10363afd2833a957aeb7ccdfb74aff8c508cf4565bdc5d8eeb020a9a"
 metafile = true
 
 [[files]]
@@ -31,6 +56,16 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "b21938bfc71d238fdf80f01542a3bf4caceb1eaf11972165b5df2d4fc05ab5ef"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
@@ -38,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "21e4dce3451c95fd24222d0563a8bf62ff621b82770a6aec07563dc462eb1303"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "0fd256b27b9baaa240af790376b852efbced1d357ea8b4bc324aa835d6dcbc58"
 metafile = true
 
 [[files]]
@@ -76,6 +116,11 @@ hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "1c7648037c28bc381ed920a3882417b315b0aada29e07bf053ba180a438ea3ed"
 metafile = true
@@ -86,13 +131,28 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
+metafile = true
+
+[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "592dd4f9cbed1762711ec05e5bb3b7b20f3d16a6df4ef20aba8461bef28f7232"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "fb9e8227c7a65b5ed787655053db002a12c9f71587e9b16f6f306fbe0f2b1a55"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk-v2.pw.toml"
 hash = "2bab0998d1b23069194b242a8bcc5afd2fbbc4047218fdf1d997316fe8cd8221"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "1d9a0f64530cea39527713511f8e5513837fb8783d75860ece2b1a83d2d59c7a"
 metafile = true
 
 [[files]]
@@ -111,6 +171,11 @@ hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "4af50837d039d8b8a8857674033cbc87e90c441de2c296b2bd80a70ee04d3c96"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2c7f4e5909fe14046115f1ec3427865580f4e10eb1b433b3ce9e805ac95aeff9"
 metafile = true
@@ -118,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "4f7dbca2a78f7ac0044dccd6e1573b73a58b210b9fabbb67c553f7e453005aad"
 metafile = true
 
 [[files]]
@@ -141,6 +211,11 @@ hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
+file = "mods/nct.pw.toml"
+hash = "53f87f488b39aa5fec5e4b7e89e67bd6a69a4bec1ce119f12e4ca0f405a960bb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
@@ -153,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "101da57f5931601efbd1a532fc0bc2becc8cc0d8450421c354cc062ea3bd20a3"
 metafile = true
 
 [[files]]
@@ -176,6 +256,11 @@ hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f675fb68db6493e26d25e860443249d2f6d681751c53f23cd29d4a4a1bbb28b5"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
 metafile = true
@@ -183,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7560a0a8d7737d587fc2e3484e5573a743988549c2ce5f24746f8ea816cad5c9"
 metafile = true
 
 [[files]]
