@@ -101,11 +101,6 @@ hash = "0fd256b27b9baaa240af790376b852efbced1d357ea8b4bc324aa835d6dcbc58"
 metafile = true
 
 [[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "48b7006d6efb70e924d404d2c598b66f178ba04d04350172915bb7a41ecca9b1"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "fa2fa13862386e218469a08f1135e7de12f4e575e2213e7951c90c53641959da"
 metafile = true
