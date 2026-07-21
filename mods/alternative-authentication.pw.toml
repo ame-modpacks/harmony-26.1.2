@@ -1,0 +1,13 @@
+name = "Alternative Authentication"
+filename = "alternative-auth-1.3.0+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iF6szt3y/versions/huHFl2n2/alternative-auth-1.3.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "dc02474b7f75ccac0834c1fb1eb2e79479409aafa41f4f4458f21b0d3ea1142ee31fab41ead1757ef55b1bd0f63df02f6eccb61f0aa95d19df72db23d098e269"
+
+[update]
+[update.modrinth]
+mod-id = "iF6szt3y"
+version = "huHFl2n2"

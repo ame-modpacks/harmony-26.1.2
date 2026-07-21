@@ -16,6 +16,11 @@ hash = "319e33f0c095431cac722aec0c44649e7aeed9aa47e87426dc02b78ba1821585"
 metafile = true
 
 [[files]]
+file = "mods/alternative-authentication.pw.toml"
+hash = "185f3ee0e68000773ee5c80fb8bbdca00e779942dbea01424381bfe804dcd491"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
