@@ -311,6 +311,11 @@ hash = "f675fb68db6493e26d25e860443249d2f6d681751c53f23cd29d4a4a1bbb28b5"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "476714d6e343b1f4bdadf159c44b3cc62d836870480d1a87c8a82f2ba65e6ddb"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
 metafile = true
