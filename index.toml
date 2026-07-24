@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
+hash = "e18dbe66ea851baa3617fb06343cad12dc357a51fded44e67ce3e47fce80e46a"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "265c2a4cb987474f6c893adc5bf5b14ba6756bbed5fc56dfb5e29649062a84a1"
+hash = "398a96faa7baf7dd4ae1096e7b73cf320955409905614d9ae4736d43651fbe6f"
 metafile = true
 
 [[files]]
