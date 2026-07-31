@@ -26,8 +26,18 @@ hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "91cfc6200c769a03d2d1843dc2c6c8381f2b581f1f84497dd24526d617fa3398"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "050122c8be6ea18cf73010098a7eab81c84bd21549a0c15f5633ab73e6050547"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "8e6033c2642308835d119a073fdf24306394cdb6985c482a08e67b8087f6e90d"
 metafile = true
 
 [[files]]
@@ -76,11 +86,6 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
-metafile = true
-
-[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "b21938bfc71d238fdf80f01542a3bf4caceb1eaf11972165b5df2d4fc05ab5ef"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
+metafile = true
+
+[[files]]
+file = "mods/consumableoptimizer.pw.toml"
+hash = "09fb317c304535d61ce865625aab13b965072efd79568cabcf45ddb21b187f1b"
 metafile = true
 
 [[files]]
@@ -161,8 +171,8 @@ hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "b2c7e56b75bfe5122d0c451eabf3b692b54f284094ca01d3daa9c5d83236dd8c"
+file = "mods/fzzy-config.pw.toml"
+hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
@@ -181,6 +191,11 @@ hash = "2bab0998d1b23069194b242a8bcc5afd2fbbc4047218fdf1d997316fe8cd8221"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "1d9a0f64530cea39527713511f8e5513837fb8783d75860ece2b1a83d2d59c7a"
 metafile = true
@@ -193,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "a826eb5620b44f763365baedb22075293191abf82b94353252c936f1e5e45959"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
 metafile = true
 
 [[files]]
@@ -227,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
+hash = "cb4b411882267dfba9ab18f33d3fa69f3f4a545e996411000a3ed6315f3b8452"
 metafile = true
 
 [[files]]
@@ -256,8 +276,18 @@ hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "00deebe1454e3c6ea59fb2fb61154c6877970286d8e9d4d20a1be1283017042c"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "44de8b95afa9b4c72c2123ee2cb853657af538ae6a0405ccc0128dd6d5830b86"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]
@@ -278,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8445070cb77093b7e6537e687c2774bcca50bc32f753d47fc04f8d5f2534b432"
+metafile = true
+
+[[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "f3b12f4fcfec5d5e9bd75d8bca95d351192ec3bebbbbe1b00d4b7c4336a8f4d4"
 metafile = true
 
 [[files]]
@@ -303,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "e2b6540e0f7c6a728d575235084f50c6398e23924f4a4fa4e8d5182aeffe803c"
 metafile = true
 
 [[files]]
@@ -363,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "398a96faa7baf7dd4ae1096e7b73cf320955409905614d9ae4736d43651fbe6f"
+metafile = true
+
+[[files]]
+file = "mods/walksylib.pw.toml"
+hash = "239fb48c046ed043f2104cde3331ae6103c07b13852176389645f12db43904ea"
 metafile = true
 
 [[files]]
