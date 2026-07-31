@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "9e0432dc69c6a4129a169bcb2ac1cd7b49c4b55a91578d127da205d220a626bd"
+hash = "6ca9484dcfa28762f68768bca2c7e26373554c1ec8dd9abe6dca07ac05bb27ee"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "8680f5703ebdb128c116244741dae5db2bdca3c46ca2b493b5f05fdff76b9bb9"
 metafile = true
 
 [[files]]
@@ -281,6 +286,11 @@ hash = "00deebe1454e3c6ea59fb2fb61154c6877970286d8e9d4d20a1be1283017042c"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "44de8b95afa9b4c72c2123ee2cb853657af538ae6a0405ccc0128dd6d5830b86"
 metafile = true
@@ -343,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "e2b6540e0f7c6a728d575235084f50c6398e23924f4a4fa4e8d5182aeffe803c"
+metafile = true
+
+[[files]]
+file = "mods/serversleep.pw.toml"
+hash = "9843eed4c125f63f46d4156d97255674dfb05811c4c51111d339116697625089"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "0f5ab75c55efd5271e3bd4ddcde0b39fe6427121ca66c8f8c4ada2a65ed83a42"
 metafile = true
 
 [[files]]
@@ -423,4 +443,14 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "f27f5b486c792c796e451515c85b39b48c10840cfbec7f8632ed6c2643edde1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "06914d64c0b9532f7d6c54699fdb3956671bdfd21c972b40c38da5c9f70ffeb9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true

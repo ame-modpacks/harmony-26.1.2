@@ -1,12 +1,12 @@
 name = "Harmony"
 author = "lia.lopes"
-version = "4.0.0"
+version = "4.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6229294195fda1a52a4c9df16bb4785c66574e3643d4663687530fe0a2485800"
+hash = "7a81513abeebfeb5eb856115a43dab6ecb1bb50ea3991488dd56f148357221ce"
 
 [versions]
 fabric = "0.19.3"
