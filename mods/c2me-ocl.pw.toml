@@ -1,18 +1,18 @@
 name = "C2ME OpenCL Acceleration Module"
-filename = "c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-beta.1.0.jar"
+filename = "c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.44.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qtPMklut/versions/nbDoBmhu/c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-beta.1.0.jar"
+url = "https://cdn.modrinth.com/data/qtPMklut/versions/T5x5GGE6/c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.44.jar"
 hash-format = "sha512"
-hash = "e79b576523efe8f48aac6cb33e04bb5bdd1fc0a74f63fc23244e794f9a95e0016e543b0cb619c5d61fb6eaf4156575159b20f822abf22f1e3bfc9aa519e2bac0"
+hash = "8747b94bd693fc00b5599beeb8686f4fd2efa8675c97812caa4bbfff3cb7001cf2d5b2c86255ba7d193de75693434e612ec66fddca7bad54ee61e1c877662c9b"
 
 [update]
 [update.modrinth]
 mod-id = "qtPMklut"
-version = "nbDoBmhu"
+version = "T5x5GGE6"
 
 [option]
 optional = true
-default = true
 description = "GPU-accelerated chunk generation. Requires OpenCL"
+default = true
