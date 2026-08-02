@@ -286,6 +286,11 @@ hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "2aa8b3bfbb96aeff6579224f3438a17831b7f3bf2a6edd986a7dc09525547bc0"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "00deebe1454e3c6ea59fb2fb61154c6877970286d8e9d4d20a1be1283017042c"
 metafile = true
@@ -306,6 +311,11 @@ hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]
+file = "mods/ping-view.pw.toml"
+hash = "8b4bed2afc433588cfd479236120575d61e55e909f8104af89c7011419eb09ca"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
@@ -313,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8c272ec6b1bd2c3b526920d224af6b769d5fc03c473fb721e50e7481a6d094e2"
 metafile = true
 
 [[files]]
@@ -368,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "0f5ab75c55efd5271e3bd4ddcde0b39fe6427121ca66c8f8c4ada2a65ed83a42"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "f0b8a7bece987755b2d54eca26ac561369501250e4afad9c9e30685c9b5c8880"
 metafile = true
 
 [[files]]
