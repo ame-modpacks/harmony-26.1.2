@@ -26,6 +26,11 @@ hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "2aa1892b809683f9566fe863329ef92f251c2e31a330345af48ce92a7bfda6a7"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "91cfc6200c769a03d2d1843dc2c6c8381f2b581f1f84497dd24526d617fa3398"
 metafile = true
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "e52e00c36bf402ba49b18347028c06a8c74cedf56ef6dc1502a06975e3abcda1"
+hash = "0b22df49fcf0db824a0b436315101eb0042cdbbf70f2679a6f53ab011e83eb2c"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dad3b7ff85be5189f1243be9914ade88e8ab4113bba003139c93590673540355"
+hash = "90020f16142f5174a058a2d5b8e06e3d0609504af68770db32f1bd3cb70d7d4c"
 metafile = true
 
 [[files]]
@@ -397,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "7c31a908b2309d573163326b564a797d28fb7c0c15e18c29d61c930b3adafb27"
+hash = "08f6c185e95d207d1d0aa9cf14c75d24ca0f6b0eec7261df9e8a6fd8a433eedb"
 metafile = true
 
 [[files]]
