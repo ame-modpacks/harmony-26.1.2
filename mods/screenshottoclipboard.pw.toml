@@ -1,0 +1,13 @@
+name = "ScreenshotToClipboard"
+filename = "screenshottoclipboard-261~2612-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/razcXGXv/versions/s0i94UBy/screenshottoclipboard-261~2612-1.0.0.jar"
+hash-format = "sha512"
+hash = "ae3092a42fad2b95f181c4a5a0da293576ddf898e6e0b42522580b87f613e4ad8d2078b9677acd9a5dcdfbe8d0d613b1f688e09bb7ad1a0f11dbc5c62b938678"
+
+[update]
+[update.modrinth]
+mod-id = "razcXGXv"
+version = "s0i94UBy"

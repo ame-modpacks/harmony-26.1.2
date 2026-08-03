@@ -371,6 +371,16 @@ hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "92e9e17c3f9d30dd623cdbe6b7755c661073c267c1693812dc071ec8baa6fef9"
+metafile = true
+
+[[files]]
+file = "mods/screenshottoclipboard.pw.toml"
+hash = "3d6b87f828fe4a78348e9b317334b5a3c3ff241ef3f26b41878dc7290f09b46b"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "e2b6540e0f7c6a728d575235084f50c6398e23924f4a4fa4e8d5182aeffe803c"
 metafile = true
@@ -383,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "0f5ab75c55efd5271e3bd4ddcde0b39fe6427121ca66c8f8c4ada2a65ed83a42"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f0b8a7bece987755b2d54eca26ac561369501250e4afad9c9e30685c9b5c8880"
 metafile = true
 
 [[files]]
